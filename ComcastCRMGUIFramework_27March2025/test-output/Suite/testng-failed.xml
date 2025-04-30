@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.crm.comcast.contacttest.CreateContactTest_DynamiElts_tc08_ConfigAnnotation_5April2025">
+        <methods>
+          <include name="configAfterClass"/>
+          <include name="configBforeClass"/>
+          <include name="configAfterSuite"/>
+          <include name="configAfterMethod"/>
+          <include name="configBforeSuite"/>
+          <include name="configBforeMethod"/>
+          <include name="createOrgTest2"/>
+        </methods>
+      </class> <!-- com.crm.comcast.contacttest.CreateContactTest_DynamiElts_tc08_ConfigAnnotation_5April2025 -->
+      <class name="com.crm.comcast.orgtest.CreateOrgTest_DynamiElts_tc07_ConfigAnnotation_5April2025">
+        <methods>
+          <include name="configAfterClass"/>
+          <include name="configBforeClass"/>
+          <include name="createOrgTest"/>
+          <include name="configAfterSuite"/>
+          <include name="configAfterMethod"/>
+          <include name="configBforeSuite"/>
+          <include name="configBforeMethod"/>
+        </methods>
+      </class> <!-- com.crm.comcast.orgtest.CreateOrgTest_DynamiElts_tc07_ConfigAnnotation_5April2025 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
