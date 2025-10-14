@@ -1,0 +1,5 @@
+{
+    "timestamp": "2025-10-14T08:19:48.058+00:00",
+    "message": "Enter a valid email ID",
+    "details": "uri=/employees"
+}

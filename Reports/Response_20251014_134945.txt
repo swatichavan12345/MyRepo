@@ -1,0 +1,9 @@
+{
+    "msg": "Employee Added Successfully",
+    "employeeName": "user_720",
+    "dob": "20/08/1999",
+    "mobile": "9928906544",
+    "employeeId": "NH_00009",
+    "email": "swati80162345@gmail.com",
+    "username": "user_1387"
+}
